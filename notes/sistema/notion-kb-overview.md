@@ -5,6 +5,8 @@ updated: 2026-03-29
 tags: [NotebookLM, KnowledgeBase, Workflow]
 sources:
   - "Post de @ihtesham2005 en X — 20 marzo 2026"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # 📚 NotebookLM Knowledge Base
@@ -29,6 +31,10 @@ Base de conocimiento construida a partir del workflow documentado por facultad d
 3. Registrá tus notebooks en **Notebooks Activos**
 4. Documentá lo que aprendés en **Experimentos & Resultados**
 5. Usá **Asset Generator v3** para generar assets
+
+## Wiki Pattern
+
+Este wiki sigue el patrón LLM Wiki de Karpathy. Ver [[CLAUDE.md.local]] para schema y workflows.
 
 ## Relacionado
 

@@ -6,6 +6,8 @@ tags: [SDD, SpecDrivenDevelopment, AIAgents, CodingAgents, ClaudeCode, Cursor, A
 sources:
   - "Post de Julián de Angelis en X (Twitter) — 15 marzo 2026"
   - "https://x.com/juliandeangeiis/status/2033303156340240481"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Spec Driven Development (SDD)

@@ -3,6 +3,9 @@ name: load-balancer
 description: Load Balancer — distribuye tráfico entre instancias de servidor sin lógica de aplicación
 type: concepto
 tags: [arquitectura, backend, networking, infrastructure]
+status: synthesized
+sources: []
+last_lint: 2026-04-07
 ---
 
 # Load Balancer

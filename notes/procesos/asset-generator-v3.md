@@ -5,6 +5,8 @@ updated: 2026-04-04
 tags: [AssetGenerator, SKILLmd, Rules, Subagents, Workflow]
 sources:
   - "NotebookLM Knowledge Base"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Asset Generator v3 — Configuración

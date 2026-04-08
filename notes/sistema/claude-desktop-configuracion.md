@@ -5,6 +5,8 @@ updated: 2026-03-29
 tags: [ClaudeDesktop, LearningEngine, NotebookLM, MCP]
 sources:
   - "NotebookLM Knowledge Base"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Claude Desktop — Configuración del Proyecto

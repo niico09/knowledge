@@ -5,6 +5,8 @@ updated: 2026-04-04
 tags: [Skills, AutoMejora, AIAgents, LLMJudge]
 sources:
   - "Post de @tricalt sobre cognee-skills"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Skills que se auto-mejoran: el problema real y cómo resolverlo

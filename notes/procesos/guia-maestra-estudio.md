@@ -5,6 +5,8 @@ updated: 2026-04-04
 tags: [NotebookLM, LearningEngine, StudySystem, SpacedRepetition]
 sources:
   - "NotebookLM Knowledge Base"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Guía Maestra — Sistema de Estudio con IA

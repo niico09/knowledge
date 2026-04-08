@@ -5,6 +5,8 @@ updated: 2026-03-26
 tags: [Skills, ClaudeCode, Anthropic, BestPractices]
 sources:
   - "Thariq (@trq212) — Anthropic, 17 mar 2026"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Skills en Producción — Lecciones de Anthropic

@@ -5,6 +5,8 @@ updated: 2026-03-22
 tags: [NotebookLM, LearningPath, StudySystem]
 sources:
   - "Workflow Overview — Los 7 Pasos"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Paso 8 — Generación del Learning Path Personal

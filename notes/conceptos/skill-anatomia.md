@@ -5,6 +5,8 @@ updated: 2026-04-04
 tags: [Skills, SKILL.md, ProgressiveDisclosure, ClaudeCode]
 sources:
   - "Notion → migrado 2026-04-04"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Anatomía de un SKILL.md bien diseñado

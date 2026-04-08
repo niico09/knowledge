@@ -3,6 +3,9 @@ name: api-gateway
 description: API Gateway — proxy inteligente que orquesta, transforma y protege el tráfico entre clientes y servicios backend
 type: concepto
 tags: [arquitectura, backend, networking, microservices]
+status: synthesized
+sources: []
+last_lint: 2026-04-07
 ---
 
 # API Gateway

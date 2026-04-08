@@ -5,6 +5,8 @@ updated: 2026-04-04
 tags: [NotebookLM, Workflow, StudySystem, DeepResearch]
 sources:
   - "NYU, Stanford, Case Western, ASU y Northeastern"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Workflow Overview — Los 7 Pasos

@@ -5,6 +5,8 @@ updated: 2026-03-24
 tags: [TDD, SDD, Agent, Prompt, presupuesto-generator]
 sources:
   - "SDD — presupuesto-generator"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Prompt para Agente — Implementación TDD completa

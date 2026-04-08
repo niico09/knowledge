@@ -3,6 +3,9 @@ name: bytebytego-sources
 description: Fuentes de ByteByteGo — podcast y blog de arquitectura de software
 type: reference
 tags: [fuentes, arquitectura, podcasts, blogs]
+status: synthesized
+sources: []
+last_lint: 2026-04-07
 ---
 
 # ByteByteGo

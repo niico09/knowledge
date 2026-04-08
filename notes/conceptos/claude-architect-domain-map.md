@@ -6,6 +6,8 @@ tags: [ClaudeArchitect, Exam, AntiPatterns, AgenticAI, MCPTools, PromptEngineeri
 sources:
   - "@hooeem en X"
   - "Notion → migrado 2026-04-04"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Claude Architect — Domain Map & Anti-Patterns

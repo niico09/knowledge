@@ -5,6 +5,8 @@ updated: 2026-04-04
 tags: [ClaudeCode, Setup, Ejemplo, Rules, Hooks, Skills, Agents]
 sources:
   - "Proceso de Desarrollo con IA — Guía Práctica"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Ejemplo: Setup completo de `.claude/` para un proyecto nuevo

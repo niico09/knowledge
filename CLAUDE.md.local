@@ -1,0 +1,79 @@
+---
+name: knowledge-wiki-schema
+description: Schema y workflows para el knowledge wiki local
+---
+
+# Knowledge Wiki Schema
+
+## Estructura del Wiki
+
+```
+knowledge/
+├── CLAUDE.md.local    # Este archivo — schema + workflows
+├── log.md             # Registro append-only de operaciones
+├── index.md           # Catálogo de todas las páginas
+├── sources/           # RAW SOURCES (inmutables)
+│   ├── articulos/     # Papers, artículos originales (URL + fecha)
+│   ├── podcasts/       # Transcripciones de podcasts
+│   └── videos/        # Notas de videos
+├── notes/             # WIKI GENERATED (síntesis del LLM)
+│   ├── conceptos/     # Entity pages
+│   ├── procesos/      # Process pages
+│   ├── herramientas/  # Tool pages
+│   └── sistema/       # System pages
+└── scripts/           # Workflows automatizados
+```
+
+## Operaciones
+
+### Ingest
+
+Cuando arrives una nueva fuente:
+
+1. Guardar fuente cruda en `sources/` con metadata
+2. Registrar en `log.md` con formato: `## YYYY-MM-DD HH:MM — INGEST: <source>`
+3. Generar síntesis en `notes/` usando NotebookLM
+4. Actualizar `index.md`
+5. Verificar con `scripts/lint.sh`
+
+### Query
+
+Cuando usuario pregunta sobre un tema:
+
+1. Buscar en `index.md` por keywords
+2. Consultar páginas relevantes en `notes/`
+3. Triangular con NotebookLM si existe notebook del tema
+4. Responder con citas: `[[page-name]]`
+5. Si hay contradicción, flaggear con `⚠️ CONTRADICTION: [[page-a]] vs [[page-b]]`
+
+### Lint
+
+Corrección de salud del wiki:
+
+1. Buscar orphan pages: páginas sin incoming links
+2. Detectar contradicciones entre páginas
+3. Verificar stale claims: claims sin fuente en `sources/`
+4. Reportar en `log.md`
+
+## Formato de metadata en sources
+
+```markdown
+---
+title: "Título original"
+url: "https://..."
+date: 2026-04-07
+type: article|podcast|video
+status: raw
+---
+
+## Resumen (auto-generado post-ingest)
+```
+
+## Reglas de Wiki-Links
+
+- `[[nombre-pagina]]` — link a página del wiki
+- `[[fuente:articulo-nombre]]` — link a source
+- `⚠️ CONTRADICTION:` — flag de contradicción
+- `🔴 ORPHAN:` — página sin referencias entrantes
+- `🕐 STALE:` — claim sin fecha de verificación
+```

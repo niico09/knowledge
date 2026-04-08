@@ -5,6 +5,8 @@ updated: 2026-03-26
 tags: [Java, SpringAI, RAG, FunctionCalling, Skill]
 sources:
   - "Java 17+ Notebook"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Java Spring AI — SKILL

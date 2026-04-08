@@ -6,6 +6,8 @@ tags: [ClaudeCode, CLAUDE.md, Hooks, Skills, Agents, Permissions, Configuracion]
 sources:
   - "@akshay_pachaar"
   - "Notion → migrado 2026-04-04"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Anatomía de la carpeta .claude/ — Guía Completa

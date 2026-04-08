@@ -5,6 +5,8 @@ updated: 2026-03-22
 tags: [LearningEngine, Prompts, NotebookLM]
 sources:
   - "NotebookLM Knowledge Base"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Prompts de Ejemplo — Learning Engine

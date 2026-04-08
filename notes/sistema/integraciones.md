@@ -5,6 +5,8 @@ updated: 2026-03-21
 tags: [NotebookLM, MCP, ClaudeDesktop, GoogleClassroom, Integraciones]
 sources:
   - "Post de @ihtesham2005 en X — 20 marzo 2026"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Integraciones

@@ -5,6 +5,8 @@ updated: 2026-03-27
 tags: [AssetGenerator, NotebookLM, SKILL, Rules, Subagents]
 sources:
   - "NotebookLM Knowledge Base"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Asset Generator v3 — Instructivo del Project

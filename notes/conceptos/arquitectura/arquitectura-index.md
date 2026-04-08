@@ -3,6 +3,9 @@ name: arquitectura-index
 description: Índice de conceptos de arquitectura de software — networking, APIs y patrones de comunicación
 type: concepto
 tags: [arquitectura, index]
+status: synthesized
+sources: []
+last_lint: 2026-04-07
 ---
 
 # Arquitectura — Índice

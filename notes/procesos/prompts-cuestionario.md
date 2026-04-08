@@ -5,6 +5,8 @@ updated: 2026-04-04
 tags: [NotebookLM, Prompts, StudySystem, SpacedRepetition]
 sources:
   - "NotebookLM Studio"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Prompts — Cuestionario y Tarjetas Didácticas

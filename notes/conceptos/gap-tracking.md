@@ -5,6 +5,8 @@ updated: 2026-04-04
 tags: [GapTracking, Workflow, AssetGenerator]
 sources:
   - "Glosario SDD"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Gap tracking

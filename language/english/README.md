@@ -10,7 +10,8 @@
 | Archivo | Descripción |
 |---------|-------------|
 | [english-learning-path-b2-tech](english-learning-path-b2-tech.md) | Plan de 12 semanas, día a día |
-| [prompts-english-notebooklm](prompts-english-notebooklm.md) | Prompts listos para copiar |
+| [prompts-english-notebooklm](prompts-english-notebooklm.md) | Prompts para NotebookLM |
+| [cuestionarios-dificiles](cuestionarios-dificiles.md) | 4 quizzes extensos (30+ preguntas cada uno) |
 
 ## Books (Tier List)
 

@@ -5,6 +5,8 @@ updated: 2026-04-05
 tags: [LearningPath, ML, AIEngineering, DeepLearning, LLM]
 sources:
   - "Ruta de lectura basada en biblioteca personal"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Learning Path — ML + AI Engineering

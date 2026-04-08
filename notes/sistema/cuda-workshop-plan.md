@@ -5,6 +5,8 @@ updated: 2026-03-22
 tags: [CUDA, Workshop, LearningPath, NotebookLM]
 sources:
   - "cuda-programming notebook (69 fuentes)"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Workshop Plan — cuda-programming (4 sesiones x 90 min)

@@ -5,6 +5,8 @@ updated: 2026-04-02
 tags: [NotebookLM, Prompt, BriefingDocument, StudySystem]
 sources:
   - "AI Engineering by Chip Huyen"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Prompt — NotebookLM Briefing Document (Resumen de Capítulo)

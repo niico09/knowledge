@@ -5,6 +5,8 @@ updated: 2026-04-04
 tags: [NotebookLM, RecoveryLearning, StudySystem, Paper]
 sources:
   - "AI Engineering (Chip Huyen)"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Guía de Reconstrucción — Qué llevar a papel

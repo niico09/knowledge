@@ -5,6 +5,8 @@ updated: 2026-03-29
 tags: [NotebookLM, Prompts, Quiz, Flashcards, Courses, StudySystem]
 sources:
   - "NotebookLM Studio"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Prompts — Cuestionario y Tarjetas Didácticas (Cursos)

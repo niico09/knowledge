@@ -5,6 +5,8 @@ updated: 2026-04-04
 tags: [Onboarding, Prompts, NotebookLM, LearningEngine]
 sources:
   - "NotebookLM Knowledge Base"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Onboarding — Primeros 3 Prompts

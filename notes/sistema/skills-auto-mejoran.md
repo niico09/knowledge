@@ -5,6 +5,8 @@ updated: 2026-03-25
 tags: [Skills, SelfImprovement, SDD, FeedbackLoop]
 sources:
   - "Debate propio basado en cognee-skills"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Skills que se auto-mejoran: el problema real y cómo resolverlo

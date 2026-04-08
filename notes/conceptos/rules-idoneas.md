@@ -5,6 +5,8 @@ updated: 2026-04-04
 tags: [Rules, CLAUDE.md, ClaudeCode, Hooks, BestPractices]
 sources:
   - "Notion → migrado 2026-04-04"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Guía Completa: Rules Idóneas en Claude Code (2026)

@@ -5,6 +5,8 @@ updated: 2026-03-26
 tags: [Java, Kafka, SpringCloudStream, EventDriven, Rules]
 sources:
   - "Java 17+ Notebook"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Java Event-Driven — Rules

@@ -5,6 +5,8 @@ updated: 2026-04-04
 tags: [ClaudeCode, Configuracion, Rules, Skills, Agents, Hooks]
 sources:
   - "Inspirado en @akshay_pachaar, mejorado y expandido"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Anatomía de la carpeta .claude/

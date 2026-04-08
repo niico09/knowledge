@@ -5,6 +5,8 @@ updated: 2026-04-04
 tags: [NotebookLM, StudySystem, Workflow, AIAgents]
 sources:
   - "Workflow documentado por facultad de NYU, Stanford, Case Western, ASU y Northeastern"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # NotebookLM Knowledge Base

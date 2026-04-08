@@ -5,6 +5,8 @@ updated: 2026-04-04
 tags: [Skills, Anthropic, Produccion, AIAgents]
 sources:
   - "Post de Thariq (@trq212) — Anthropic, 17 mar 2026"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Skills en Producción — Lecciones de Anthropic

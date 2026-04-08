@@ -5,6 +5,8 @@ updated: 2026-03-24
 tags: [SDD, TDD, Next.js, React19, Vitest, presupuesto-generator]
 sources:
   - "Proceso de Desarrollo con IA — Guía Práctica"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # SDD — presupuesto-generator: Cobertura de tests para lógica de negocio crítica

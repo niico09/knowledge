@@ -5,6 +5,8 @@ updated: 2026-04-04
 tags: [SDD, SpecDrivenDevelopment, AIAgents, Devin, Jira, AgentHarness]
 sources:
   - "Notion → migrado 2026-04-04"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Proceso de Desarrollo con IA — Guía Práctica

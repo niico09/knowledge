@@ -5,6 +5,8 @@ updated: 2026-04-04
 tags: [UX, UI, Diseno, Principios, Heuristicas]
 sources:
   - "Base de conocimiento UX/UI"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Fundamentos y Principios Core — UX/UI

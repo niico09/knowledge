@@ -6,6 +6,8 @@ tags: [LearningPath, ClaudeArchitect, Certificacion, ClaudeCode]
 sources:
   - "Based on Claude Architect: Domain Map & Anti-Patterns"
   - "Passing score: 720/1000 · Fecha: Marzo 2026"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Learning Path — Claude Certified Architect (Foundations)

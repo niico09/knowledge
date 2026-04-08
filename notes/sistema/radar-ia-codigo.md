@@ -5,6 +5,8 @@ updated: 2026-04-04
 tags: [Radar, Papers, AIAgents, Benchmark, Research]
 sources:
   - "Radar IA para Código — 2 Abr 2026"
+status: synthesized
+last_lint: 2026-04-07
 ---
 
 # Radar IA para Código — 2 Abr 2026
