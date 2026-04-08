@@ -1,0 +1,23 @@
+#!/bin/bash
+# post-commit — Git hook que actualiza log.md con cada commit
+
+WIKI_DIR="${WIKI_DIR:-/home/nico/knowledge/notes}"
+LOG_FILE="$WIKI_DIR/log.md"
+COMMIT_MSG=$(git log -1 --pretty=%s)
+COMMIT_HASH=$(git log -1 --pretty=%H)
+COMMIT_DATE=$(git log -1 --pretty=%ai | cut -d' ' -f1,2 | tr -d '\n')
+AUTHOR=$(git log -1 --pretty=%an)
+
+# Archivos cambiados en este commit
+CHANGED_FILES=$(git diff-tree --no-commit-title --root -r --name-only HEAD 2>/dev/null | grep '\.md$' | grep -v '^log\.md$' | tr '\n' ',' | sed 's/,$//')
+
+# Crear log.md si no existe
+if [ ! -f "$LOG_FILE" ]; then
+  echo "# Log de Cambios" > "$LOG_FILE"
+  echo "" >> "$LOG_FILE"
+  echo "| Timestamp | Hash | Autor | Archivos | Mensaje |" >> "$LOG_FILE"
+  echo "|-----------|------|-------|----------|---------|" >> "$LOG_FILE"
+fi
+
+# Agregar entrada
+echo "| $COMMIT_DATE | \`${COMMIT_HASH:0:8}\` | $AUTHOR | $CHANGED_FILES | $COMMIT_MSG |" >> "$LOG_FILE"
