@@ -1,0 +1,20 @@
+wiki:
+  root: /home/nico/knowledge/notes
+
+categorias:
+  - conceptos
+  - procesos
+  - herramientas
+  - sistema
+  - articulos
+  - personas
+  - proyectos
+  - arquitectura
+
+ignored:
+  - index.md
+  - log.md
+  - wiki-lint-report.md
+
+hooks:
+  post_commit: .wiki/bin/post-commit
