@@ -37,10 +37,12 @@ Ruta de lectura para convertirse en ML/AI Engineer. Timeline: 10-12 meses de est
 
 ### FASE 3 — Deep Learning + GenAI (Mes 5-6)
 
-| Orden | Libro | Tema | Prioridad |
-|-------|-------|------|-----------|
-| 5 | Generative AI with Python and PyTorch | CNNs, GANs, VAEs, Stable Diffusion | 🟠 Importante |
-| 6 | Build a Large Language Model (From Scratch) | Transformers, LLMs por dentro | 🔴 Esencial |
+| Orden | Libro | Tema | Prioridad | Recurso Complementario |
+|-------|-------|------|-----------|------------------------|
+| 5 | Generative AI with Python and PyTorch | CNNs, GANs, VAEs, Stable Diffusion | 🟠 Importante | |
+| 6 | Build a Large Language Model (From Scratch) | Transformers, LLMs por dentro | 🔴 Esencial | [[transformer-architecture]] |
+
+**Complemento**: La nota de Transformer cubre todo el fundamento teórico con código PyTorch, diagramas y preguntas de verificación.
 
 ### FASE 4 — AI Engineering / Producción (Mes 7-8)
 
@@ -90,3 +92,4 @@ Mes 11-12: Interpretable AI + Clean Architecture
 
 - [[learning-path-architect]] — Learning path para Claude Architect
 - [[guia-maestra-estudio]] — Sistema de estudio general
+- [[transformer-architecture]] — Guía completa de Arquitectura Transformer (complemento a Fase 3)

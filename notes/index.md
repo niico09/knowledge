@@ -21,6 +21,7 @@ Generado: 2026-04-08 12:17
 - [[skills-auto-mejora]] (2026-04-07) — ---
 - [[skills-generadas-registry]] (2026-04-07) — ---
 - [[skills-produccion]] (2026-04-07) — ---
+- [[transformer-architecture]] (2026-04-08) — Guía completa de Arquitectura Transformer - desde Atención hasta LLMs modernos
 
 ## procesos/
 
