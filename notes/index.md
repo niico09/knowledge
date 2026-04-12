@@ -22,6 +22,11 @@ Generado: 2026-04-08 12:17
 - [[skills-generadas-registry]] (2026-04-07) — ---
 - [[skills-produccion]] (2026-04-07) — ---
 - [[transformer-architecture]] (2026-04-08) — Guía completa de Arquitectura Transformer - desde Atención hasta LLMs modernos
+- [[agent-harness-engineering]] (2026-04-09) — Framework para mejorar agents via evals y harness loops
+- [[devin-harness-integration]] (2026-04-09) — Cómo aplicar harness engineering con Devin como black box
+- [[llm-agents]] (2026-04-09) — Agentes basados en LLMs para software engineering
+- [[reinforcement-learning]] (2026-04-09) — RL para LLMs: RLHF, GRPO, Joint RL
+- [[swe-bench]] (2026-04-09) — Benchmark para coding agents en tareas reales de software
 
 ## procesos/
 
@@ -46,6 +51,9 @@ Generado: 2026-04-08 12:17
 ## herramientas/
 
 - [[guia-carpeta-claude]] (2026-04-07) — ---
+- [[langchain-agents]] (2026-04-09) — Framework open para agents con LLMs, basado en LangGraph
+- [[autogen]] (2026-04-09) — Framework multi-agente de Microsoft (⚠️ modo mantenimiento)
+- [[google-agents]] (2026-04-09) — Google ADK + A2A protocol para interoperabilidad entre agents
 
 ## sistema/
 
@@ -65,6 +73,9 @@ Generado: 2026-04-08 12:17
 - [[skills-en-produccion-lecciones-anthropic]] (2026-04-07) — ---
 
 ## articulos/
+
+- [[agent-harness-memory-hwchase17-2026]] (2026-04-12) — Agent harnesses + memory: por qué lock-in de memoria es la verdadera amenaza
+- [[scaling-coding-agents-atomic-skills]] (2026-04-09) — Agentes de código escalables via atomic skills con Joint RL (+18.7% mejora)
 
 
 ## personas/
