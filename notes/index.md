@@ -31,6 +31,19 @@ Generado: 2026-04-13
 - [[swe-bench]] (2026-04-09) — Benchmark para coding agents en tareas reales de software
 - [[rag-architecture]] (2026-04-13) — **NUEVO** Retrieval Augmented Generation: vector stores, chunking, hybrid search
 - [[tool-use]] (2026-04-13) — **NUEVO** Function calling como primitive de agents: anatomy, categories, error handling
+- [[llm-training-post-training-pipeline]] (2026-04-13) — **NUEVO** Pipeline post-training: GRPO, DPO, rejection sampling, alignment RL
+- [[dpo]] (2026-04-13) — **NUEVO** Direct Preference Optimization: preference pairs sin reward model
+- [[orm-prm]] (2026-04-13) — **NUEVO** ORM vs PRM: outcome vs process reward models
+- [[reward-hacking]] (2026-04-13) — **NUEVO** Reward hacking y alignment faking
+- [[meta-harness]] (2026-04-13) — **NUEVO** Meta-Harness: optimiza harness code, no weights (6x perf gap)
+- [[parl]] (2026-04-13) — **NUEVO** PARL: credit assignment en orchestration layer (Kimi K2.5)
+- [[distillation]] (2026-04-13) — **NUEVO** Distillation: bigger-before-smaller, capability decoupling
+- [[mup]] (2026-04-13) — **NUEVO** muP: hyperparameter transfer small→large scale
+- [[wsd-schedule]] (2026-04-13) — **NUEVO** WSD: Warmup, Stable, Decay learning rate schedule
+- [[chinchilla-optimal]] (2026-04-13) — **NUEVO** Chinchilla optimal point: 20 tokens per parameter
+- [[rft]] (2026-04-13) — **NUEVO** RFT: Reinforcement Fine-Tuning pipeline desplegable
+- [[cold-start-sft]] (2026-04-13) — **NUEVO** Cold-start SFT: warmup con CoT data antes de RL
+- [[rejection-sampling-ft]] (2026-04-13) — **NUEVO** Rejection Sampling FT: bridge RL→SFT
 
 ## procesos/
 
@@ -91,6 +104,7 @@ Generado: 2026-04-13
 - [[2026-04-12-claude-code--obsidian-ultimate-guide]] (2026-04-12) — Claude Code + Obsidian como second brain — 843K views
 - [[agent-harness-memory-hwchase17-2026]] (2026-04-12) — Agent harnesses + memory: por qué lock-in de memoria es la verdadera amenaza
 - [[llm-long-term-memory-chrysb]] (2026-04-13) — **NUEVO** Why long-term memory for LLMs remains unsolved — framework de 9 ejes
+- [[llm-training-tw93-2026]] (2026-04-13) — **NUEVO** LLM Training post-training pipeline: GRPO, DPO, agent harness como capa de optimización
 - [[scaling-coding-agents-atomic-skills]] (2026-04-09) — Agentes de código escalables via atomic skills con Joint RL (+18.7% mejora)
 
 

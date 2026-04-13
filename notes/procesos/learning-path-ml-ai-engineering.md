@@ -48,7 +48,7 @@ Ruta de lectura para convertirse en ML/AI Engineer. Timeline: 10-12 meses de est
 
 | Orden | Libro | Tema | Prioridad |
 |-------|-------|------|-----------|
-| 7 | AI Engineering — Chip Huyen | MLOps, deployment, fine-tuning, RAG | 🔴 Esencial |
+| 7 | AI Engineering — Chip Huyen | MLOps, deployment, fine-tuning, RAG | 🔴 Esencial | **Nota:** RAG tiene ceiling fundamental — ver [[no-escape-theorem-semantic-memory]] |
 | 8 | LLM Engineer's Handbook | Fine-tuning, RLHF, RAG production | 🟠 Importante |
 | 9 | Interpretable AI | XAI, SHAP, LIME | 🟡 Bueno |
 

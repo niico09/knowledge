@@ -120,7 +120,7 @@ El sistema actual usa:
 - **Obsidian** como local wiki (sin embedding)
 - **NotebookLM** para active learning
 
-Gap: No hay ingestion pipeline que sincronice Notion → Vector DB.
+> ⚠️ **Ver también:** [[no-escape-theorem-semantic-memory]] — RAG y knowledge graphs tienen un ceiling fundamental probado. El teorema no-escape muestra que cualquier sistema basado en embeddings sufre olvido y false recall inevitablemente al escalar.
 
 ## Workflow: Add New Knowledge Source
 

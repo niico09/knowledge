@@ -324,6 +324,8 @@ pgvector (existing) → Pinecone # If Postgres is bottleneck
 
 Ver: [[rag-architecture]]
 
+> ⚠️ **Contexto teórico:** [[no-escape-theorem-semantic-memory]] — el teorema no-escape prueba que todas las vector DBs suffer inevitablemente de olvido y false recall al escalar, independientemente de la arquitectura.
+
 ## References
 
 - [[rag-architecture]] — Context de uso en RAG systems

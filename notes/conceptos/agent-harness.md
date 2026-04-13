@@ -101,6 +101,7 @@ Según experiencia de comunidad en producción:
 
 - [[agent-harness-engineering]] — Pipeline de better-harness loop con evals
 - [[agent-harness-memory-hwchase17-2026]] — Análisis de Harrison Chase sobre memory=harness y lock-in via memoria
+- [[llm-training-tw93-2026]] — Meta-Harness: optimiza el harness code mismo, no los weights. Mismo modelo base + different harness = 6x performance gap
 
 ## Tags
 
