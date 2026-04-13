@@ -27,6 +27,8 @@ Generado: 2026-04-13
 - [[llm-agents]] (2026-04-09) — Agentes basados en LLMs para software engineering
 - [[reinforcement-learning]] (2026-04-09) — RL para LLMs: RLHF, GRPO, Joint RL
 - [[swe-bench]] (2026-04-09) — Benchmark para coding agents en tareas reales de software
+- [[rag-architecture]] (2026-04-13) — **NUEVO** Retrieval Augmented Generation: vector stores, chunking, hybrid search
+- [[tool-use]] (2026-04-13) — **NUEVO** Function calling como primitive de agents: anatomy, categories, error handling
 
 ## procesos/
 
@@ -47,6 +49,8 @@ Generado: 2026-04-13
 - [[sdd-presupuesto-generator]] (2026-04-07) — ---
 - [[tdd-prompt-agente]] (2026-04-07) — ---
 - [[workflow-7-pasos]] (2026-04-07) — ---
+- [[ci-cd-agent-pipeline]] (2026-04-13) — **NUEVO** Pipeline CI/CD para AI agents: Docker, Kubernetes, evals en CI
+- [[testing-strategy-ai-engineering]] (2026-04-13) — **NUEVO** Strategy de testing para AI: evals vs unit tests, regression detection
 
 ## herramientas/
 
@@ -55,6 +59,8 @@ Generado: 2026-04-13
 - [[langchain-agents]] (2026-04-09) — Framework open para agents con LLMs, basado en LangGraph
 - [[autogen]] (2026-04-09) — Framework multi-agente de Microsoft (⚠️ modo mantenimiento)
 - [[google-agents]] (2026-04-09) — Google ADK + A2A protocol para interoperabilidad entre agents
+- [[vector-databases-comparison]] (2026-04-13) — **NUEVO** Pinecone, Chroma, pgvector, Weaviate, Qdrant — comparison y decision framework
+- [[docker-kubernetes-ml]] (2026-04-13) — **NUEVO** Docker & Kubernetes para ML: GPU support, Helm charts, deployment patterns
 
 ## sistema/
 
@@ -70,6 +76,7 @@ Generado: 2026-04-13
 - [[notebooklm-referencias]] (2026-04-07) — ---
 - [[notebooklm-workflow]] (2026-04-07) — ---
 - [[notion-kb-overview]] (2026-04-07) — ---
+- [[observability-agents]] (2026-04-13) — **NUEVO** Observabilidad para AI agents: tracing, metrics, Grafana, alerting
 - [[pricing-api-vs-subscription]] (2026-04-13) — API directo ~$500/mo vs subscription $100/mo (5x ahorro)
 - [[prompts-ejemplo-learning-engine]] (2026-04-07) — ---
 - [[radar-ia-codigo]] (2026-04-07) — ---
@@ -81,6 +88,7 @@ Generado: 2026-04-13
 
 - [[2026-04-12-claude-code--obsidian-ultimate-guide]] (2026-04-12) — Claude Code + Obsidian como second brain — 843K views
 - [[agent-harness-memory-hwchase17-2026]] (2026-04-12) — Agent harnesses + memory: por qué lock-in de memoria es la verdadera amenaza
+- [[llm-long-term-memory-chrysb]] (2026-04-13) — **NUEVO** Why long-term memory for LLMs remains unsolved — framework de 9 ejes
 - [[scaling-coding-agents-atomic-skills]] (2026-04-09) — Agentes de código escalables via atomic skills con Joint RL (+18.7% mejora)
 
 
@@ -92,4 +100,4 @@ Generado: 2026-04-13
 
 ---
 
-*Total: 55 archivos*
+*Total: 62 archivos*
