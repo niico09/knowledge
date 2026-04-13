@@ -22,6 +22,8 @@ Generado: 2026-04-13
 - [[skills-generadas-registry]] (2026-04-07) — ---
 - [[skills-produccion]] (2026-04-07) — ---
 - [[transformer-architecture]] (2026-04-08) — Guía completa de Arquitectura Transformer - desde Atención hasta LLMs modernos
+- [[agent-harness]] (2026-04-13) — **NUEVO** Agent Harness: concepto + taxonomy framework/runtime/harness
+- [[harness-behaviors-glossary]] (2026-04-13) — **NUEVO** 7 behaviors del harness: tool output protocol, stop conditions, hooks, etc.
 - [[agent-harness-engineering]] (2026-04-09) — Framework para mejorar agents via evals y harness loops
 - [[devin-harness-integration]] (2026-04-09) — Cómo aplicar harness engineering con Devin como black box
 - [[llm-agents]] (2026-04-09) — Agentes basados en LLMs para software engineering
