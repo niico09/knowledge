@@ -1,6 +1,6 @@
 # Índice de Conocimiento
 
-Generado: 2026-04-08 12:17
+Generado: 2026-04-13
 
 ---
 
@@ -51,14 +51,18 @@ Generado: 2026-04-08 12:17
 ## herramientas/
 
 - [[guia-carpeta-claude]] (2026-04-07) — ---
+- [[whisper-voice-input]] (2026-04-13) — Voice input para Claude Code — 40% más rápido que typing
 - [[langchain-agents]] (2026-04-09) — Framework open para agents con LLMs, basado en LangGraph
 - [[autogen]] (2026-04-09) — Framework multi-agente de Microsoft (⚠️ modo mantenimiento)
 - [[google-agents]] (2026-04-09) — Google ADK + A2A protocol para interoperabilidad entre agents
 
 ## sistema/
 
+- [[auto-memory-critica]] (2026-04-13) — Auto Memory: "too much magic", no compartible con equipo
 - [[bytebytego-sources]] (2026-04-07) — ---
+- [[claude-code-model-selection]] (2026-04-13) — Opus/Sonnet/Haiku mapping con SDD
 - [[claude-desktop-configuracion]] (2026-04-07) — ---
+- [[context-zonas-status-line]] (2026-04-13) — Context como presupuesto: zonas, status line, auto-compact
 - [[cuda-workshop-plan]] (2026-04-07) — ---
 - [[integraciones]] (2026-04-07) — ---
 - [[java-event-driven]] (2026-04-07) — ---
@@ -66,6 +70,7 @@ Generado: 2026-04-08 12:17
 - [[notebooklm-referencias]] (2026-04-07) — ---
 - [[notebooklm-workflow]] (2026-04-07) — ---
 - [[notion-kb-overview]] (2026-04-07) — ---
+- [[pricing-api-vs-subscription]] (2026-04-13) — API directo ~$500/mo vs subscription $100/mo (5x ahorro)
 - [[prompts-ejemplo-learning-engine]] (2026-04-07) — ---
 - [[radar-ia-codigo]] (2026-04-07) — ---
 - [[referencias]] (2026-04-07) — ---
@@ -74,6 +79,7 @@ Generado: 2026-04-08 12:17
 
 ## articulos/
 
+- [[2026-04-12-claude-code--obsidian-ultimate-guide]] (2026-04-12) — Claude Code + Obsidian como second brain — 843K views
 - [[agent-harness-memory-hwchase17-2026]] (2026-04-12) — Agent harnesses + memory: por qué lock-in de memoria es la verdadera amenaza
 - [[scaling-coding-agents-atomic-skills]] (2026-04-09) — Agentes de código escalables via atomic skills con Joint RL (+18.7% mejora)
 
@@ -86,4 +92,4 @@ Generado: 2026-04-08 12:17
 
 ---
 
-*Total: 49 archivos*
+*Total: 55 archivos*
