@@ -427,4 +427,4 @@ Empezá chico, refinanás sobre la marcha.
 
 - [[claude-architect-domain-map]] — Domain 3 del examen Claude Certified Architect
 - [[skill-anatomia]] — Anatomía de un SKILL.md bien diseñado
-- [[rules-idoenas]] — Rules Idóneas en Claude Code
+- [[rules-idoneas]] — Rules Idóneas en Claude Code

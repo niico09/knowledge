@@ -18,3 +18,4 @@
 | 2026-04-13 02:01:51 | `a6daff0e` | nico |  | feat(conceptos): add agent-harness concept + behaviors glossary |
 | 2026-04-13 02:07:28 | `1de1184e` | nico |  | feat(conceptos): add Latent Briefing - KV cache compaction para multi-agent systems |
 | 2026-04-13 02:XX | `XXXXXX` | nico | conceptos/no-escape-theorem-semantic-memory.md | feat(conceptos): add The Price of Meaning - no-escape theorem para memoria semántica |
+| 2026-04-13 09:50:44 | `b5d53a89` | nico |  | feat(conceptos): add The Price of Meaning - no-escape theorem para memoria semántica |

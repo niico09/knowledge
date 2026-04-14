@@ -34,10 +34,11 @@ Base de conocimiento construida a partir del workflow documentado por facultad d
 
 ## Wiki Pattern
 
-Este wiki sigue el patrón LLM Wiki de Karpathy. Ver [[CLAUDE.md.local]] para schema y workflows.
+Este wiki sigue el patrón LLM Wiki de Karpathy. Ver [[ai-second-brain-claude-obsidian]] para implementación completa con Obsidian + Claude Code, y [[CLAUDE.md.local]] para schema y workflows.
 
 ## Relacionado
 
 - [[notebooklm-workflow]] — Sistema de estudio
+- [[ai-second-brain-claude-obsidian]] — Implementación Obsidian + Claude Code
 - [[workflow-7-pasos]] — Los 7 pasos
 - [[asset-generator-v3]] — Asset Generator

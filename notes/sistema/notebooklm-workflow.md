@@ -34,4 +34,4 @@ Base de conocimiento construida a partir del workflow documentado por facultad d
 ## Relacionado
 
 - [[learning-path-architect]] — Learning path que usa este sistema
-- [[sistema/asset-generator]] — Asset Generator v3
+- [[procesos/asset-generator-v3]] — Asset Generator v3
