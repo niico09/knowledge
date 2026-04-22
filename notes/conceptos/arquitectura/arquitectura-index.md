@@ -20,6 +20,13 @@ Documentación de patrones y componentes de arquitectura de infraestructura y ne
 | [[api-gateway]] | Orquestación, auth, rate limiting, transformación | Seed |
 | [[service-mesh]] | mTLS y observabilidad entre servicios internos | - |
 
+## Secuencia & Sequence Modeling
+
+| Concepto | Descripción | Madurez |
+|----------|-------------|----------|
+| [[rnn-architecture]] | RNN, LSTM, GRU — vanishing gradients y puertas | Seed |
+| [[transformer-architecture]] | Attention, Multi-Head, positional encoding | - |
+
 ## Patrones de Arquitectura
 
 | Concepto | Descripción | Estado |

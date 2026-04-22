@@ -95,7 +95,6 @@ Generado: 2026-04-13
 - [[pricing-api-vs-subscription]] (2026-04-13) — API directo ~$500/mo vs subscription $100/mo (5x ahorro)
 - [[prompts-ejemplo-learning-engine]] (2026-04-07) — ---
 - [[radar-ia-codigo]] (2026-04-07) — ---
-- [[referencias]] (2026-04-07) — ---
 - [[skills-auto-mejoran]] (2026-04-07) — ---
 - [[skills-en-produccion-lecciones-anthropic]] (2026-04-07) — ---
 
